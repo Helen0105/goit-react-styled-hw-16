@@ -17,7 +17,7 @@ useEffect (() => {
   //     ...feedback,
   //     good: feedback.good + 1,
   //   });
-  // };
+  // }; ///
 
   // const handleNeutralClick = () => {
   //   setFeedback({
